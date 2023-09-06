@@ -1,0 +1,23 @@
+{
+  "name": "rdao_openhack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Pranshu rastogi",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranshurastogi/R-DAO-Open-Hack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pranshurastogi/R-DAO-Open-Hack/issues"
+  },
+  "homepage": "https://github.com/pranshurastogi/R-DAO-Open-Hack#readme",
+  "description": "",
+  "dependencies": {
+    "@lighthouse-web3/sdk": "^0.2.7"
+  }
+}
