@@ -1,6 +1,21 @@
-require("@nomicfoundation/hardhat-toolbox");
+require("@nomiclabs/hardhat-waffle");
+const { infuraProjectId, mnemonic } = require('./secrets.json');
 
-/** @type import('hardhat/config').HardhatUserConfig */
 module.exports = {
-  solidity: "0.8.19",
+  solidity: "0.8.0",
+  networks: {
+    goerli: {
+      url: `https://goerli.infura.io/v3/${infuraProjectId}`,
+      accounts: {mnemonic: mnemonic}
+    }
+  },
+  paths: {
+    sources: "./contracts",
+    tests: "./test",
+    cache: "./cache",
+    artifacts: "./artifacts"
+  },
+  mocha: {
+    timeout: 20000
+  }
 };
