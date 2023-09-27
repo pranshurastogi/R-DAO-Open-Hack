@@ -8,6 +8,7 @@
   "keywords": [],
   "author": "Pranshu rastogi",
   "license": "ISC",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pranshurastogi/R-DAO-Open-Hack.git"
