@@ -12,6 +12,7 @@ Welcome to the `ResearchDAO` repository! This platform serves as a decentralized
 - [Deployment](#deployment)
 
 ## System Overview
+![Research](https://github.com/pranshurastogi/R-DAO-Open-Hack/assets/46647968/9ef60343-75b3-4de3-a929-b947400f31f9)
 
 ### Research Submission
 
