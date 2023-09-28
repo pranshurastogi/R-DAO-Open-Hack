@@ -1,6 +1,8 @@
 import styles from "./style";
 import { Features, CTA, Footer, Navbar, Hero } from "./components";
 import Marketplace from "./components/Marketplace";
+import UploadResearch from "./components/UploadResearch";
+
 import { Route, Routes } from "react-router-dom";
 
 const App = () => (
@@ -40,7 +42,16 @@ const App = () => (
           </div>
         </div>
       } />
+         <Route path="/upload" element={
+        <div className={`bg-primary ${styles.flexStart}`}>
+          <div className={`${styles.boxWidth}`}>
+            <UploadResearch />
+            {/* If you want Footer here, you can add <Footer /> below Marketplace */}
+          </div>
+        </div>
+      } />
     </Routes>
+
   </div>
 );
 
