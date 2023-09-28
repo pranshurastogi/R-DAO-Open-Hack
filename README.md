@@ -11,7 +11,14 @@ Welcome to the `ResearchDAO` repository! This platform serves as a decentralized
 - [ResearchPaperDAO Contract Details](#researchpaperdao-contract-details)
 - [Deployment](#deployment)
 
+
+## Website Screenshots
+<img width="1668" alt="Screenshot 2023-09-29 at 3 29 21 AM" src="https://github.com/pranshurastogi/R-DAO-Open-Hack/assets/46647968/bd02e370-4176-47bd-b253-fe769bb5811e">
+<img width="1648" alt="Screenshot 2023-09-29 at 3 27 24 AM" src="https://github.com/pranshurastogi/R-DAO-Open-Hack/assets/46647968/4c6123e6-c1f3-411e-aab1-5d650c3c7e70">
+<img width="1672" alt="Screenshot 2023-09-29 at 3 28 05 AM" src="https://github.com/pranshurastogi/R-DAO-Open-Hack/assets/46647968/b056b0b8-8d43-41fb-baa4-394bb419d7d5">
+
 ## System Overview
+
 ![Research](https://github.com/pranshurastogi/R-DAO-Open-Hack/assets/46647968/9ef60343-75b3-4de3-a929-b947400f31f9)
 
 ### Research Submission
@@ -21,6 +28,9 @@ Welcome to the `ResearchDAO` repository! This platform serves as a decentralized
 - Determine the **visibility** of their papers, allowing them to make the content public or private.
 - Attach a **Content URI** which is a direct link or reference to their actual research content.
 
+#### Upload Paper
+<img width="1668" alt="Screenshot 2023-09-29 at 3 35 56 AM" src="https://github.com/pranshurastogi/R-DAO-Open-Hack/assets/46647968/b22b4ca5-f557-417e-843f-b06b406711cb">
+
 ### Community Engagement and Voting
 
 To foster community involvement:
@@ -29,12 +39,18 @@ To foster community involvement:
 - An integrated commenting system enables intellectual discussions and feedback.
 - A quadratic voting mechanism ensures that voting on papers is democratic, preventing disproportionate influence by any one entity.
 
+#### Public Paper
+<img width="1679" alt="Screenshot 2023-09-29 at 3 35 34 AM" src="https://github.com/pranshurastogi/R-DAO-Open-Hack/assets/46647968/de6343b3-a33a-4169-b461-d1b6b25a3348">
+
 ### Research Marketplace
 
 The platform isn't just about sharing; it's also about commerce:
 
 - Researchers can set a **price** for their private papers.
 - Users interested in accessing a private research paper can purchase access, promoting a dynamic marketplace where knowledge has value.
+
+#### Private Paper
+<img width="1673" alt="Screenshot 2023-09-29 at 3 33 56 AM" src="https://github.com/pranshurastogi/R-DAO-Open-Hack/assets/46647968/c7f6ed7a-e25b-40a1-9988-f214d8fa4596">
 
 ## Contracts Breakdown
 
